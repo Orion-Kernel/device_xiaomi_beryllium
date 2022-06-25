@@ -18,7 +18,7 @@ TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := cherish_beryllium
+PRODUCT_NAME := lineage_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
@@ -32,6 +32,6 @@ BUILD_FINGERPRINT := Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA
 
 #Maintainer Flag
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.cherish.maintainer=𝕏𝕀𝕊𝔸ℕ
+    ro.cherish.maintainer=𝙂𝙖𝙪𝙧𝙖𝙫
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
