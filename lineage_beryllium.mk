@@ -7,7 +7,7 @@
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common Zenx OS stuff.
-$(call inherit-product, vendor/syberia/common.mk)
+$(call inherit-product, vendor/lineage/common.mk)
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_beryllium
