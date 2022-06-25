@@ -19,4 +19,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     lineage_beryllium-user \
     lineage_beryllium-userdebug \
-    cherish_beryllium-eng
+    lineage_beryllium-eng
