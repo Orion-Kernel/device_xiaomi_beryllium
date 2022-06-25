@@ -9,7 +9,7 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 # Inherit some common Cherish stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
-CHERISH_VANILLA := true
+
 
 # Quick-Tap
 TARGET_SUPPORTS_QUICK_TAP := true
