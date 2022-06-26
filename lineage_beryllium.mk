@@ -18,7 +18,7 @@ TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_beryllium
+PRODUCT_NAME := arrow_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
