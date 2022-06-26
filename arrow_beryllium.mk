@@ -32,6 +32,6 @@ BUILD_FINGERPRINT := Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V12.0.3.0.QEJ
 
 #Maintainer Flag
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.cherish.maintainer=𝙂𝙖𝙪𝙧𝙖𝙫
+    ro.arrow.maintainer=𝙂𝙖𝙪𝙧𝙖𝙫
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
