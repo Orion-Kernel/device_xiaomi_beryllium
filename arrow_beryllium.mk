@@ -7,7 +7,7 @@
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common Cherish stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/arrow/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 
