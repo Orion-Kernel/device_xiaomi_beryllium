@@ -1,0 +1,39 @@
+[
+  {
+    "remote": "github",
+    "repository": "Orion462/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch":"12.1-wip"
+  },
+  {
+    "remote": "github",
+    "repository": "Orion462/device_xiaomi_beryllium",
+    "target_path": "device/xiaomi/beryllium",
+    "branch":"12.1-wip"
+  },
+  {
+    "remote": "github",
+    "repository": "Orion462/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":"12.1-wip"
+  },
+  {
+    "remote": "github",
+    "repository": "ArrowOS-Devices/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch":"Arrow-12.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Orion462/ kernel_xiaomi_sdm845",
+    "target_path": "kernel/xiaomi/sdm845",
+    "branch": "s-caf"
+  },
+  {
+    "remote": "github",
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master"
+    "depth" : "1"
+  }
+]
