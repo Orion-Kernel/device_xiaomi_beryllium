@@ -25,9 +25,9 @@
   },
   {
     "remote": "github",
-    "repository": "Orion462/ kernel_xiaomi_sdm845",
+    "repository": "PainKiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "s-caf"
+    "branch": "twelve"
   },
   {
     "remote": "github",
